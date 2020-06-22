@@ -5,5 +5,5 @@
         {"id":3, "name":"bob", "age":"25"},
         {"id":4, "name":"bob", "age":"26"}
     ],
-    "last_page":15
+    "count":15
 }
